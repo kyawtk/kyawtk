@@ -1,4 +1,4 @@
-# [👉 Visit My Portfolio](https://kyawtk.netlify.app)
+# [👉 Visit My (old) Portfolio  (*a new one is under constructruction with more advanced projects](https://kyawtk.netlify.app)
 <div id="header" align="center">
  
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
