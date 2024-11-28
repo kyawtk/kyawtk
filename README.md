@@ -1,4 +1,4 @@
-# [👉 Visit My (old) Portfolio  (*a new one is under constructruction with more advanced projects](https://kyawtk.netlify.app)
+# [Portfolio](https://kyawtk.netlify.app)
 <div id="header" align="center">
  
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -10,13 +10,9 @@
 
 ### :man_technologist: About Me 
 I am a Front End Engineer from Yangon, Myanmar.
-- :telescope: I’m working as a Front End Web Developer and building web applications.
+- :telescope: I’m  a Front End Web Developer and building web applications.
 
 - :seedling: Exploring the Possibilities with technologies.
-
-- :zap: In my free time, I solve problems on Codewars and read tech articles.
-
-- :mailbox:How to reach me:
 
 - ---
 
